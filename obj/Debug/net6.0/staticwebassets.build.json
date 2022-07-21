@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "I9AFzf/AcGD86yB752P4WmoUsJnhjlWp0AKUmdD93nc=",
+  "Source": "WebAPIAutores",
+  "BasePath": "_content/WebAPIAutores",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPIAutores\\wwwroot",
+      "Source": "WebAPIAutores",
+      "ContentRoot": "C:\\Users\\hojas\\Documents\\C#\\WebApiAutores\\WebAPIAutores\\wwwroot\\",
+      "BasePath": "_content/WebAPIAutores",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hojas\\Documents\\C#\\WebApiAutores\\WebAPIAutores\\wwwroot\\Archivo.txt",
+      "SourceId": "WebAPIAutores",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hojas\\Documents\\C#\\WebApiAutores\\WebAPIAutores\\wwwroot\\",
+      "BasePath": "_content/WebAPIAutores",
+      "RelativePath": "Archivo.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivo.txt"
+    }
+  ]
+}
